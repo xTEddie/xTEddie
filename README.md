@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey! I'm Edward <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **xTEddie/xTEddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xTEddie.xTEddie)
+
+-------
+
+- 🔥 Software Engineer @ [Microsoft](microsoft.com)
+- ⚒ I’m currently working on [omnichannel-chat-sdk](https://github.com/microsoft/omnichannel-chat-sdk)
+- ⚡ Fun fact: I 💗 🏸 & 🏂 & 🍴
+
