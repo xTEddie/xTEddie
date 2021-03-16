@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=xTEddie.xTEddie)
-
--------
+--------
 
 - 🔥 Software Engineer @ [Microsoft](microsoft.com)
 - ⚒ I’m currently working on [omnichannel-chat-sdk](https://github.com/microsoft/omnichannel-chat-sdk)
 - ⚡ Fun fact: I 💗 🏸 & 🏂 & 🍴
 
+--------
+![](https://visitor-badge.glitch.me/badge?page_id=xTEddie.xTEddie)
